@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hello Hello Hello Test
-date: {}
 categories: jekyll update
 published: true
 ---
